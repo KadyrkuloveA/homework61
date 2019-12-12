@@ -1,0 +1,12 @@
+.Countries {
+    display: flex;
+}
+.list {
+    width: 19%;
+    list-style: none;
+    margin: 20px;
+    padding: 0;
+    overflow-x: auto;
+    height: 550px;
+    border-right: 2px solid #282c34;
+}
